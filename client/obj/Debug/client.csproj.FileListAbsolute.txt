@@ -1,0 +1,11 @@
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\bin\Debug\client.exe.config
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\bin\Debug\client.exe
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\bin\Debug\client.pdb
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\bin\Debug\rho.dll
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\bin\Debug\rho.pdb
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\obj\Debug\client.client.resources
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\obj\Debug\client.Properties.Resources.resources
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\obj\Debug\client.exe
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\client\obj\Debug\client.pdb

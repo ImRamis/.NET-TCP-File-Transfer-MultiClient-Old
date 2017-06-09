@@ -1,0 +1,7 @@
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\rho\bin\Debug\rho.dll
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\rho\bin\Debug\rho.pdb
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\rho\obj\Debug\rho.csprojResolveAssemblyReference.cache
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\rho\obj\Debug\rho.dll
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\rho\obj\Debug\rho.pdb
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\rho\bin\Debug\System.Net.Http.dll
+c:\Users\aimash\documents\visual studio 2015\Projects\Proj\rho\bin\Debug\System.Net.Http.xml

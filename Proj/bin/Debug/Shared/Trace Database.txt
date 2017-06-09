@@ -1,0 +1,8 @@
+AMEApp	1	5
+AMEDynamicLinkServer	1	5
+Batch	1	5
+DynamicLink	1	5
+EncoderHost	1	5
+ExporterH264Bluray	1	5
+ExporterMPEG4	1	5
+ML.ProjectLoadTracer	1	5
